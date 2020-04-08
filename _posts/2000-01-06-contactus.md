@@ -2,7 +2,7 @@
 title: "Contact Us"
 bg: purple
 color: white
-fa-icon: fa-address-card-o
+fa-icon: address-card-o
 ---
 
 ## Email us at :
