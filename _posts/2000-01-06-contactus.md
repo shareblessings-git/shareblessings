@@ -2,7 +2,7 @@
 title: "Contact Us"
 bg: purple
 color: white
-fa-icon: cloud-upload
+fa-icon: fa-address-card-o
 ---
 
 ## Email us at :
