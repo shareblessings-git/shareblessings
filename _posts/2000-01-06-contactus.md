@@ -2,10 +2,10 @@
 title: "Contact Us"
 bg: purple
 color: white
-fa-icon: address-card-o
+fa-icon: address-book
 ---
 
-## Email us at  :- 
+## Email us at  :-
 ## Call us at   :-
 {% comment %}
 
